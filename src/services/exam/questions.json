@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "text": "What is the meaning of akin?",
+      "correct": "Similar to",
+      "incorrect": ["Not similar to"]
+    },
+    {
+      "text": "What is a synonym of amidst?",
+      "correct": "Amongst",
+      "incorrect": ["Exhiled"]
+    },
+    {
+      "text": "What can be inferred from the phrase: 'I'm beat.' ?",
+      "correct": "Someone is tired",
+      "incorrect": ["Someone is happy", "Someone is energetic"]
+    },
+    {
+      "text": "What is another word for lethargic?",
+      "correct": "Lazy",
+      "incorrect": ["Motivated", "Activated"]
+    }
+  ]
+}
